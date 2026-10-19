@@ -68,11 +68,11 @@ const apps = [
     shortName: 'BH',
     slug: 'buildhive',
     description: 'BuildHive is an Android app for browsing construction supplies and placing orders.',
-    version: 'v1.0.0',
+    version: 'v1.0.1',
     file: 'Buildhive.apk',
-    size: 64277913,
+    size: 64277917,
     logoUrl: 'assets/buildhive/icon.png',
-    downloadUrl: 'https://github.com/Ken-rookie/app-downloads/releases/download/buildhive-v1.0.0/Buildhive.apk'
+    downloadUrl: 'https://github.com/Ken-rookie/app-downloads/releases/download/buildhive-v1.0.1/Buildhive.apk'
   }
 ];
 
