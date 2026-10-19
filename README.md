@@ -1,6 +1,6 @@
 # Ken-rookie App Downloads
 
-A responsive download page for TokaToka, 3Kings Reservation, RANKR, and Baryo Bites. Each button links directly to the APK asset in its verified GitHub release.
+A responsive download page for TokaToka, 3Kings Reservation, RANKR, Baryo Bites, and BuildHive. Each button links directly to the APK asset in its verified GitHub release.
 
 ## Run
 

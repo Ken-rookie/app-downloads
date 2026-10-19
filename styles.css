@@ -134,6 +134,7 @@ footer a { color: var(--green); font-weight: 700; }
 .project-card--3kings { --app-accent: #101410; --preview-accent: #76db48; --preview-tint: #172019; }
 .project-card--rankr { --app-accent: #31505b; --preview-accent: #315e68; --preview-tint: #dcebed; }
 .project-card--baryo-bites { --app-accent: #c68832; --preview-accent: #b77824; --preview-tint: #f4e8cf; }
+.project-card--buildhive { --app-accent: #176575; --preview-accent: #c99737; --preview-tint: #e3eff0; }
 .app-logo--3kings { background: var(--app-accent); }
 .app-title-group { min-width: 0; }
 .app-title-group .release-tag { display: inline-block; margin-bottom: 5px; }

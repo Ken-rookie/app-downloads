@@ -61,6 +61,18 @@ const apps = [
     file: 'app-release.apk',
     size: 55498071,
     downloadUrl: 'https://github.com/Ken-rookie/baryo-bites/releases/download/v1.0.2/app-release.apk'
+  },
+  {
+    name: 'BuildHive',
+    developer: 'Kenneth B. Dolera',
+    shortName: 'BH',
+    slug: 'buildhive',
+    description: 'BuildHive is an Android app for browsing construction supplies and placing orders.',
+    version: 'v1.0.0',
+    file: 'Buildhive.apk',
+    size: 64277913,
+    logoUrl: 'assets/buildhive/icon.png',
+    downloadUrl: 'https://github.com/Ken-rookie/app-downloads/releases/download/buildhive-v1.0.0/Buildhive.apk'
   }
 ];
 
